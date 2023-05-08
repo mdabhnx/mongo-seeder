@@ -1,0 +1,10 @@
+{
+  "name": "mongo-seeder",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "mdabhnx",
+  "scripts": {
+    "start:seed": "node src/seeder.js"
+  },
+  "license": "MIT"
+}
