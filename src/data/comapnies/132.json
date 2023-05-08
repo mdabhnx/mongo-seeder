@@ -1,0 +1,79 @@
+[
+  {
+    "no": "1",
+    "name": "EVRO - CEK D.O.O.",
+    "tradeName": "///",
+    "businessNo": "811158981",
+    "municipality": "Graçanicë",
+    "businessType": "Shoqëri me përgjegjësi të kufizuara",
+    "status": "Regjistruar",
+    "companyUrl": "https://arbk.rks-gov.net/page.aspx?id=1,38,174069",
+    "category": "6629 - Aktivitetet e tjera ndihmëse të sigurimeve dhe fondeve pensionale"
+  },
+  {
+    "no": "2",
+    "name": "EUROCHEK D.O.O.",
+    "tradeName": "///",
+    "businessNo": "811158949",
+    "municipality": "Graçanicë",
+    "businessType": "Shoqëri me përgjegjësi të kufizuara",
+    "status": "Pasiv",
+    "companyUrl": "https://arbk.rks-gov.net/page.aspx?id=1,38,174065",
+    "category": "6629 - Aktivitetet e tjera ndihmëse të sigurimeve dhe fondeve pensionale"
+  },
+  {
+    "no": "3",
+    "name": "Gazi Baxhaku B.I.",
+    "tradeName": "N.SH. \" Te Gazi  \"",
+    "businessNo": "810611625",
+    "municipality": "Prizren",
+    "businessType": "Biznes individual",
+    "status": "Pasiv",
+    "companyUrl": "https://arbk.rks-gov.net/page.aspx?id=1,38,82937",
+    "category": "6629 - Aktivitetet e tjera ndihmëse të sigurimeve dhe fondeve pensionale"
+  },
+  {
+    "no": "4",
+    "name": "Arben Nixha B.I.",
+    "tradeName": "Agjencioni për sigurime dhe sherbime Turistike",
+    "businessNo": "810588139",
+    "municipality": "Prizren",
+    "businessType": "Biznes individual",
+    "status": "Pasiv",
+    "companyUrl": "https://arbk.rks-gov.net/page.aspx?id=1,38,78544",
+    "category": "6629 - Aktivitetet e tjera ndihmëse të sigurimeve dhe fondeve pensionale"
+  },
+  {
+    "no": "5",
+    "name": "Aziz Z. Berisha B.I.",
+    "tradeName": "Agjencioni ,,Aktuari\"",
+    "businessNo": "810517211",
+    "municipality": "Prishtinë",
+    "businessType": "Biznes individual",
+    "status": "Regjistruar",
+    "companyUrl": "https://arbk.rks-gov.net/page.aspx?id=1,38,65563",
+    "category": "6629 - Aktivitetet e tjera ndihmëse të sigurimeve dhe fondeve pensionale"
+  },
+  {
+    "no": "6",
+    "name": "Ismail Bajgora B.I.",
+    "tradeName": "E.K.I.\" Euro Crash Internationl \"",
+    "businessNo": "810496209",
+    "municipality": "Prishtinë",
+    "businessType": "Biznes individual",
+    "status": "Pasiv",
+    "companyUrl": "https://arbk.rks-gov.net/page.aspx?id=1,38,62051",
+    "category": "6629 - Aktivitetet e tjera ndihmëse të sigurimeve dhe fondeve pensionale"
+  },
+  {
+    "no": "7",
+    "name": "Xufë Dervishaj I.B.",
+    "tradeName": "Agjension për shërbime \" Meti - B \"",
+    "businessNo": "810296287",
+    "municipality": "Istog",
+    "businessType": "Biznes individual",
+    "status": "Pasiv",
+    "companyUrl": "https://arbk.rks-gov.net/page.aspx?id=1,38,19403",
+    "category": "6629 - Aktivitetet e tjera ndihmëse të sigurimeve dhe fondeve pensionale"
+  }
+]

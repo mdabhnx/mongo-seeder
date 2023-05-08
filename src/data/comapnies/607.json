@@ -1,0 +1,68 @@
+[
+  {
+    "no": "1",
+    "name": "Liridon Qerkini B.I.",
+    "tradeName": "D.P.Z.  \" NORI - D \"",
+    "businessNo": "811205146",
+    "municipality": "Gjilan",
+    "businessType": "Biznes individual",
+    "status": "Pasiv",
+    "companyUrl": "https://arbk.rks-gov.net/page.aspx?id=1,38,181411",
+    "category": "2824 - Prodhimi i veglave mekanike të dorës"
+  },
+  {
+    "no": "2",
+    "name": "Energy & Recycle SH.P.K.",
+    "tradeName": "///",
+    "businessNo": "811033167",
+    "municipality": "Suharekë",
+    "businessType": "Shoqëri me përgjegjësi të kufizuara",
+    "status": "Regjistruar",
+    "companyUrl": "https://arbk.rks-gov.net/page.aspx?id=1,38,153531",
+    "category": "2824 - Prodhimi i veglave mekanike të dorës"
+  },
+  {
+    "no": "3",
+    "name": "Demiraj SH.P.K.",
+    "tradeName": "///",
+    "businessNo": "810029737",
+    "municipality": "Prizren",
+    "businessType": "Shoqëri me përgjegjësi të kufizuara",
+    "status": "Pasiv",
+    "companyUrl": "https://arbk.rks-gov.net/page.aspx?id=1,38,143480",
+    "category": "2824 - Prodhimi i veglave mekanike të dorës"
+  },
+  {
+    "no": "4",
+    "name": "Arjan Zymberi B.I.",
+    "tradeName": "N.T.P. \" Zymeri \"",
+    "businessNo": "811283100",
+    "municipality": "Ferizaj",
+    "businessType": "Biznes individual",
+    "status": "Regjistruar",
+    "companyUrl": "https://arbk.rks-gov.net/page.aspx?id=1,38,84995",
+    "category": "2824 - Prodhimi i veglave mekanike të dorës"
+  },
+  {
+    "no": "5",
+    "name": "Albini O.P.",
+    "tradeName": "///",
+    "businessNo": "811704627",
+    "municipality": "Prishtinë",
+    "businessType": "Ortakëri e përgjithshme",
+    "status": "Pasiv",
+    "companyUrl": "https://arbk.rks-gov.net/page.aspx?id=1,38,49718",
+    "category": "2824 - Prodhimi i veglave mekanike të dorës"
+  },
+  {
+    "no": "6",
+    "name": "Inter MKD L.L.C.",
+    "tradeName": "///",
+    "businessNo": "70422091",
+    "municipality": "Rahovec",
+    "businessType": "Shoqëri me përgjegjësi të kufizuara",
+    "status": "Shuar",
+    "companyUrl": "https://arbk.rks-gov.net/page.aspx?id=1,38,39216",
+    "category": "2824 - Prodhimi i veglave mekanike të dorës"
+  }
+]

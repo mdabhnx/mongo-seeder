@@ -1,0 +1,68 @@
+[
+  {
+    "no": "1",
+    "name": "AIM & FIRE SH.P.K.",
+    "tradeName": "AIM & FIRE",
+    "businessNo": "811568859",
+    "municipality": "Prishtinë",
+    "businessType": "Shoqëri me përgjegjësi të kufizuara",
+    "status": "Regjistruar",
+    "companyUrl": "https://arbk.rks-gov.net/page.aspx?id=1,38,216680",
+    "category": "2540 - Prodhimi i armëve dhe municionit"
+  },
+  {
+    "no": "2",
+    "name": "DDA SH.P.K.",
+    "tradeName": "DDA",
+    "businessNo": "811422823",
+    "municipality": "Viti",
+    "businessType": "Shoqëri me përgjegjësi të kufizuara",
+    "status": "Regjistruar",
+    "companyUrl": "https://arbk.rks-gov.net/page.aspx?id=1,38,206123",
+    "category": "2540 - Prodhimi i armëve dhe municionit"
+  },
+  {
+    "no": "3",
+    "name": "Michael Walter Späth B.I.",
+    "tradeName": "IAC International Advisor CORP",
+    "businessNo": "811403625",
+    "municipality": "Prishtinë",
+    "businessType": "Biznes individual",
+    "status": "Regjistruar",
+    "companyUrl": "https://arbk.rks-gov.net/page.aspx?id=1,38,204356",
+    "category": "2540 - Prodhimi i armëve dhe municionit"
+  },
+  {
+    "no": "4",
+    "name": "GUN USA B.I.",
+    "tradeName": "N.T.P. \" GUN USA \"",
+    "businessNo": "71168425",
+    "municipality": "Viti",
+    "businessType": "Biznes individual",
+    "status": "Shuar",
+    "companyUrl": "https://arbk.rks-gov.net/page.aspx?id=1,38,164922",
+    "category": "2540 - Prodhimi i armëve dhe municionit"
+  },
+  {
+    "no": "5",
+    "name": "Bullets Gun L.L.C.",
+    "tradeName": "///",
+    "businessNo": "810015067",
+    "municipality": "Prishtinë",
+    "businessType": "Shoqëri me përgjegjësi të kufizuara",
+    "status": "Pasiv",
+    "companyUrl": "https://arbk.rks-gov.net/page.aspx?id=1,38,124299",
+    "category": "2540 - Prodhimi i armëve dhe municionit"
+  },
+  {
+    "no": "6",
+    "name": "GUN USA B.I.",
+    "tradeName": "N.T.P. \" GUN USA \"",
+    "businessNo": "810047672",
+    "municipality": "Viti",
+    "businessType": "Biznes individual",
+    "status": "Shuar",
+    "companyUrl": "https://arbk.rks-gov.net/page.aspx?id=1,38,2627",
+    "category": "2540 - Prodhimi i armëve dhe municionit"
+  }
+]

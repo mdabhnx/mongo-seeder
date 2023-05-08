@@ -1,0 +1,101 @@
+[
+  {
+    "no": "1",
+    "name": "Cat Group SH.P.K.",
+    "tradeName": "cat group",
+    "businessNo": "812017350",
+    "municipality": "Suharekë",
+    "businessType": "Shoqëri me përgjegjësi të kufizuara",
+    "status": "Regjistruar",
+    "companyUrl": "https://arbk.rks-gov.net/page.aspx?id=1,38,244169",
+    "category": "2320 - Prodhimi i produkteve rezistuese ndaj zjarrit"
+  },
+  {
+    "no": "2",
+    "name": "Ritek Construction SH.P.K.",
+    "tradeName": "Ritek",
+    "businessNo": "811580580",
+    "municipality": "Obiliq",
+    "businessType": "Shoqëri me përgjegjësi të kufizuara",
+    "status": "Regjistruar",
+    "companyUrl": "https://arbk.rks-gov.net/page.aspx?id=1,38,217846",
+    "category": "2320 - Prodhimi i produkteve rezistuese ndaj zjarrit"
+  },
+  {
+    "no": "3",
+    "name": "Heinze Therm SH.P.K.",
+    "tradeName": "///",
+    "businessNo": "811407354",
+    "municipality": "Gjakovë",
+    "businessType": "Shoqëri me përgjegjësi të kufizuara",
+    "status": "Regjistruar",
+    "companyUrl": "https://arbk.rks-gov.net/page.aspx?id=1,38,204703",
+    "category": "2320 - Prodhimi i produkteve rezistuese ndaj zjarrit"
+  },
+  {
+    "no": "4",
+    "name": "SAP INTERNATIONAL SH.P.K.",
+    "tradeName": "///",
+    "businessNo": "810975360",
+    "municipality": "Prizren",
+    "businessType": "Shoqëri me përgjegjësi të kufizuara",
+    "status": "Regjistruar",
+    "companyUrl": "https://arbk.rks-gov.net/page.aspx?id=1,38,143323",
+    "category": "2320 - Prodhimi i produkteve rezistuese ndaj zjarrit"
+  },
+  {
+    "no": "5",
+    "name": "S&L FATLUMI SH.P.K.",
+    "tradeName": "///",
+    "businessNo": "810973645",
+    "municipality": "Prizren",
+    "businessType": "Shoqëri me përgjegjësi të kufizuara",
+    "status": "Regjistruar",
+    "companyUrl": "https://arbk.rks-gov.net/page.aspx?id=1,38,143144",
+    "category": "2320 - Prodhimi i produkteve rezistuese ndaj zjarrit"
+  },
+  {
+    "no": "6",
+    "name": "Dardania Commerce B.I.",
+    "tradeName": "N.P.T. \" Dardania Commerce \"",
+    "businessNo": "80184786",
+    "municipality": "Prizren",
+    "businessType": "Biznes individual",
+    "status": "Shuar",
+    "companyUrl": "https://arbk.rks-gov.net/page.aspx?id=1,38,75328",
+    "category": "2320 - Prodhimi i produkteve rezistuese ndaj zjarrit"
+  },
+  {
+    "no": "7",
+    "name": "IZOMIT SH.P.K.",
+    "tradeName": "///",
+    "businessNo": "810549959",
+    "municipality": "Mitrovicë",
+    "businessType": "Shoqëri me përgjegjësi të kufizuara",
+    "status": "Regjistruar",
+    "companyUrl": "https://arbk.rks-gov.net/page.aspx?id=1,38,70519",
+    "category": "2320 - Prodhimi i produkteve rezistuese ndaj zjarrit"
+  },
+  {
+    "no": "8",
+    "name": "Rroni B.I.",
+    "tradeName": "N.N.T. \" Rroni \"",
+    "businessNo": "70149373",
+    "municipality": "Prishtinë",
+    "businessType": "Biznes individual",
+    "status": "Shuar",
+    "companyUrl": "https://arbk.rks-gov.net/page.aspx?id=1,38,62220",
+    "category": "2320 - Prodhimi i produkteve rezistuese ndaj zjarrit"
+  },
+  {
+    "no": "9",
+    "name": "Rroni B.I.",
+    "tradeName": "N.N.T. \" Rroni \"",
+    "businessNo": "71107558",
+    "municipality": "Prishtinë",
+    "businessType": "Biznes individual",
+    "status": "Shuar",
+    "companyUrl": "https://arbk.rks-gov.net/page.aspx?id=1,38,935",
+    "category": "2320 - Prodhimi i produkteve rezistuese ndaj zjarrit"
+  }
+]

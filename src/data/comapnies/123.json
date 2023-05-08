@@ -1,0 +1,35 @@
+[
+  {
+    "no": "1",
+    "name": "F.P. BETA SH.P.K.",
+    "tradeName": "///",
+    "businessNo": "811183087",
+    "municipality": "Gjilan",
+    "businessType": "Shoqëri me përgjegjësi të kufizuara",
+    "status": "Pasiv",
+    "companyUrl": "https://arbk.rks-gov.net/page.aspx?id=1,38,177964",
+    "category": "6530 - Fondet pensionale"
+  },
+  {
+    "no": "2",
+    "name": "Fondi Slloveno - Kosovar I Pensioneve SH.A.",
+    "tradeName": "///",
+    "businessNo": "811280354",
+    "municipality": "Prishtinë",
+    "businessType": "Shoqëri aksionare",
+    "status": "Regjistruar",
+    "companyUrl": "https://arbk.rks-gov.net/page.aspx?id=1,38,66365",
+    "category": "6530 - Fondet pensionale"
+  },
+  {
+    "no": "3",
+    "name": "KOMBI-TAXI  ARJAN BUJA B.I.",
+    "tradeName": "AUTO TAXI ARJAN BUJA Buja",
+    "businessNo": "811671941",
+    "municipality": "Lipjan",
+    "businessType": "Biznes individual",
+    "status": "Pasiv",
+    "companyUrl": "https://arbk.rks-gov.net/page.aspx?id=1,38,34857",
+    "category": "6530 - Fondet pensionale"
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "no": "1",
+    "name": "Energy L.L.C.",
+    "tradeName": "///",
+    "businessNo": "70850400",
+    "municipality": "Prishtinë",
+    "businessType": "Shoqëri me përgjegjësi të kufizuara",
+    "status": "Shuar",
+    "companyUrl": "https://arbk.rks-gov.net/page.aspx?id=1,38,117843",
+    "category": "1910 - Prodhimi i produkteve të furrës së koksit"
+  },
+  {
+    "no": "2",
+    "name": "PETROLEUM COKE KOSOVO SH.P.K.",
+    "tradeName": "///",
+    "businessNo": "810033944",
+    "municipality": "Suharekë",
+    "businessType": "Shoqëri me përgjegjësi të kufizuara",
+    "status": "Regjistruar",
+    "companyUrl": "https://arbk.rks-gov.net/page.aspx?id=1,38,102553",
+    "category": "1910 - Prodhimi i produkteve të furrës së koksit"
+  },
+  {
+    "no": "3",
+    "name": "Privatno Preduzeee Evor B.I.",
+    "tradeName": "Privatno Preduzeee ,,Evor\"",
+    "businessNo": "811667023",
+    "municipality": "Leposaviq",
+    "businessType": "Biznes individual",
+    "status": "Pasiv",
+    "companyUrl": "https://arbk.rks-gov.net/page.aspx?id=1,38,33713",
+    "category": "1910 - Prodhimi i produkteve të furrës së koksit"
+  }
+]

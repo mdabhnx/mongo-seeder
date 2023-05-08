@@ -1,0 +1,35 @@
+[
+  {
+    "no": "1",
+    "name": "GOLD TOBACCO SH.P.K.",
+    "tradeName": "GOLD TOBACCO SHPK",
+    "businessNo": "811493676",
+    "municipality": "Prizren",
+    "businessType": "Shoqëri me përgjegjësi të kufizuara",
+    "status": "Regjistruar",
+    "companyUrl": "https://arbk.rks-gov.net/page.aspx?id=1,38,212644",
+    "category": "0115 - Kultivimi i duhanit"
+  },
+  {
+    "no": "2",
+    "name": "Osman S. Mustafa B.I.",
+    "tradeName": "///",
+    "businessNo": "811104794",
+    "municipality": "Viti",
+    "businessType": "Biznes individual",
+    "status": "Pasiv",
+    "companyUrl": "https://arbk.rks-gov.net/page.aspx?id=1,38,164988",
+    "category": "0115 - Kultivimi i duhanit"
+  },
+  {
+    "no": "3",
+    "name": "DIELLZA - V SH.P.K.",
+    "tradeName": "///",
+    "businessNo": "810069303",
+    "municipality": "Prishtinë",
+    "businessType": "Shoqëri me përgjegjësi të kufizuara",
+    "status": "Regjistruar",
+    "companyUrl": "https://arbk.rks-gov.net/page.aspx?id=1,38,125384",
+    "category": "0115 - Kultivimi i duhanit"
+  }
+]

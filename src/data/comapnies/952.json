@@ -1,0 +1,35 @@
+[
+  {
+    "no": "1",
+    "name": "AETHALIA AGENCY SH.P.K.",
+    "tradeName": "///",
+    "businessNo": "811224526",
+    "municipality": "Istog",
+    "businessType": "Shoqëri me përgjegjësi të kufizuara",
+    "status": "Pasiv",
+    "companyUrl": "https://arbk.rks-gov.net/page.aspx?id=1,38,184412",
+    "category": "5010 - Transporti detar dhe bregdetar i pasagjerëve"
+  },
+  {
+    "no": "2",
+    "name": "ICAFFE SH.P.K.",
+    "tradeName": "///",
+    "businessNo": "810106022",
+    "municipality": "Prishtinë",
+    "businessType": "Shoqëri me përgjegjësi të kufizuara",
+    "status": "Regjistruar",
+    "companyUrl": "https://arbk.rks-gov.net/page.aspx?id=1,38,126201",
+    "category": "5010 - Transporti detar dhe bregdetar i pasagjerëve"
+  },
+  {
+    "no": "3",
+    "name": "Sharra Bar SH.P.K.",
+    "tradeName": "///",
+    "businessNo": "810840745",
+    "municipality": "Prishtinë",
+    "businessType": "Shoqëri me përgjegjësi të kufizuara",
+    "status": "Pasiv",
+    "companyUrl": "https://arbk.rks-gov.net/page.aspx?id=1,38,120340",
+    "category": "5010 - Transporti detar dhe bregdetar i pasagjerëve"
+  }
+]

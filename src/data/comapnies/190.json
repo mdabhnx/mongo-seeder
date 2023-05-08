@@ -1,0 +1,46 @@
+[
+  {
+    "no": "1",
+    "name": "Kosovare Sh. Krasniqi B.I.",
+    "tradeName": "PASTRIMI JETA",
+    "businessNo": "811847469",
+    "municipality": "Kaçanik",
+    "businessType": "Biznes individual",
+    "status": "Regjistruar",
+    "companyUrl": "https://arbk.rks-gov.net/page.aspx?id=1,38,219093",
+    "category": "7712 - Marrja dhe dhënia me qira (lizingu) i kamionëve"
+  },
+  {
+    "no": "2",
+    "name": "DETI MIRADI SH.P.K.",
+    "tradeName": "///",
+    "businessNo": "811343053",
+    "municipality": "Fushë Kosovë",
+    "businessType": "Shoqëri me përgjegjësi të kufizuara",
+    "status": "Regjistruar",
+    "companyUrl": "https://arbk.rks-gov.net/page.aspx?id=1,38,197043",
+    "category": "7712 - Marrja dhe dhënia me qira (lizingu) i kamionëve"
+  },
+  {
+    "no": "3",
+    "name": "ART - M SH.P.K.",
+    "tradeName": "///",
+    "businessNo": "810026311",
+    "municipality": "Fushë Kosovë",
+    "businessType": "Shoqëri me përgjegjësi të kufizuara",
+    "status": "Pasiv",
+    "companyUrl": "https://arbk.rks-gov.net/page.aspx?id=1,38,189245",
+    "category": "7712 - Marrja dhe dhënia me qira (lizingu) i kamionëve"
+  },
+  {
+    "no": "4",
+    "name": "BATU - KOSOVA SH.P.K.",
+    "tradeName": "///",
+    "businessNo": "810974809",
+    "municipality": "Prizren",
+    "businessType": "Shoqëri me përgjegjësi të kufizuara",
+    "status": "Pasiv",
+    "companyUrl": "https://arbk.rks-gov.net/page.aspx?id=1,38,143264",
+    "category": "7712 - Marrja dhe dhënia me qira (lizingu) i kamionëve"
+  }
+]

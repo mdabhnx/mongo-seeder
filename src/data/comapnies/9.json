@@ -1,0 +1,46 @@
+[
+  {
+    "no": "1",
+    "name": "Nazim Sallauka B.I.",
+    "tradeName": "///",
+    "businessNo": "810010900",
+    "municipality": "Prizren",
+    "businessType": "Biznes individual",
+    "status": "Pasiv",
+    "companyUrl": "https://arbk.rks-gov.net/page.aspx?id=1,38,149539",
+    "category": "0116 - Kultivimi i bimëve fibroze"
+  },
+  {
+    "no": "2",
+    "name": "To Da SH.P.K.",
+    "tradeName": "///",
+    "businessNo": "810868292",
+    "municipality": "Prishtinë",
+    "businessType": "Shoqëri me përgjegjësi të kufizuara",
+    "status": "Pasiv",
+    "companyUrl": "https://arbk.rks-gov.net/page.aspx?id=1,38,123218",
+    "category": "0116 - Kultivimi i bimëve fibroze"
+  },
+  {
+    "no": "3",
+    "name": "RILINDI SH.P.K.",
+    "tradeName": "///",
+    "businessNo": "810865074",
+    "municipality": "Prishtinë",
+    "businessType": "Shoqëri me përgjegjësi të kufizuara",
+    "status": "Regjistruar",
+    "companyUrl": "https://arbk.rks-gov.net/page.aspx?id=1,38,122875",
+    "category": "0116 - Kultivimi i bimëve fibroze"
+  },
+  {
+    "no": "4",
+    "name": "Agro Fruit SH.P.K.",
+    "tradeName": "///",
+    "businessNo": "810776031",
+    "municipality": "Podujevë",
+    "businessType": "Shoqëri me përgjegjësi të kufizuara",
+    "status": "Regjistruar",
+    "companyUrl": "https://arbk.rks-gov.net/page.aspx?id=1,38,112514",
+    "category": "0116 - Kultivimi i bimëve fibroze"
+  }
+]

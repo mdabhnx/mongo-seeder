@@ -1,0 +1,35 @@
+[
+  {
+    "no": "1",
+    "name": "ADEL SH.P.K.",
+    "tradeName": "///",
+    "businessNo": "810868250",
+    "municipality": "Prishtinë",
+    "businessType": "Shoqëri me përgjegjësi të kufizuara",
+    "status": "Pasiv",
+    "companyUrl": "https://arbk.rks-gov.net/page.aspx?id=1,38,123214",
+    "category": "2651 - Prodhimi i instrumenteve dhe pajisjeve të matjes, testimit, verifikimit dhe navigimit"
+  },
+  {
+    "no": "2",
+    "name": "Enerco LLC. SH.P.K.",
+    "tradeName": "///",
+    "businessNo": "810801119",
+    "municipality": "Prishtinë",
+    "businessType": "Shoqëri me përgjegjësi të kufizuara",
+    "status": "Regjistruar",
+    "companyUrl": "https://arbk.rks-gov.net/page.aspx?id=1,38,116143",
+    "category": "2651 - Prodhimi i instrumenteve dhe pajisjeve të matjes, testimit, verifikimit dhe navigimit"
+  },
+  {
+    "no": "3",
+    "name": "Iskraemeco Kosovo D.O.O.",
+    "tradeName": "///",
+    "businessNo": "810798275",
+    "municipality": "Prishtinë",
+    "businessType": "Shoqëri me përgjegjësi të kufizuara",
+    "status": "Pasiv",
+    "companyUrl": "https://arbk.rks-gov.net/page.aspx?id=1,38,115837",
+    "category": "2651 - Prodhimi i instrumenteve dhe pajisjeve të matjes, testimit, verifikimit dhe navigimit"
+  }
+]

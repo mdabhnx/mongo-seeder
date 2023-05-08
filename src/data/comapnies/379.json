@@ -1,0 +1,35 @@
+[
+  {
+    "no": "1",
+    "name": "ILAMAJ SH.P.K.",
+    "tradeName": "///",
+    "businessNo": "811327396",
+    "municipality": "Prishtinë",
+    "businessType": "Shoqëri me përgjegjësi të kufizuara",
+    "status": "Regjistruar",
+    "companyUrl": "https://arbk.rks-gov.net/page.aspx?id=1,38,195827",
+    "category": "0891 - Nxjerrja e mineraleve kimike dhe plehërave kimikë"
+  },
+  {
+    "no": "2",
+    "name": "Tallku SH.P.K.",
+    "tradeName": "///",
+    "businessNo": "810962333",
+    "municipality": "Pejë",
+    "businessType": "Shoqëri me përgjegjësi të kufizuara",
+    "status": "Regjistruar",
+    "companyUrl": "https://arbk.rks-gov.net/page.aspx?id=1,38,141532",
+    "category": "0891 - Nxjerrja e mineraleve kimike dhe plehërave kimikë"
+  },
+  {
+    "no": "3",
+    "name": "ITKOS SH.P.K.",
+    "tradeName": "///",
+    "businessNo": "70625148",
+    "municipality": "Prishtinë",
+    "businessType": "Shoqëri me përgjegjësi të kufizuara",
+    "status": "Shuar",
+    "companyUrl": "https://arbk.rks-gov.net/page.aspx?id=1,38,116074",
+    "category": "0891 - Nxjerrja e mineraleve kimike dhe plehërave kimikë"
+  }
+]

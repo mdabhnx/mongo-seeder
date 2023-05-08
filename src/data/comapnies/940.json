@@ -1,0 +1,101 @@
+[
+  {
+    "no": "1",
+    "name": "Hevzi Spahiu B.I.",
+    "tradeName": "HEVZA TRANS",
+    "businessNo": "812004050",
+    "municipality": "Kamenicë",
+    "businessType": "Biznes individual",
+    "status": "Regjistruar",
+    "companyUrl": "https://arbk.rks-gov.net/page.aspx?id=1,38,242828",
+    "category": "4920 - Transporti hekurudhor i mallrave"
+  },
+  {
+    "no": "2",
+    "name": "CLG Logistics L.L.C.",
+    "tradeName": "CLG Logistics",
+    "businessNo": "812003276",
+    "municipality": "Prishtinë",
+    "businessType": "Shoqëri me përgjegjësi të kufizuara",
+    "status": "Regjistruar",
+    "companyUrl": "https://arbk.rks-gov.net/page.aspx?id=1,38,242749",
+    "category": "4920 - Transporti hekurudhor i mallrave"
+  },
+  {
+    "no": "3",
+    "name": "ABK AUTO BULI KOSOVË SH.P.K.",
+    "tradeName": "AUTOBARTJE KOSOVE",
+    "businessNo": "811927584",
+    "municipality": "Gjilan",
+    "businessType": "Shoqëri me përgjegjësi të kufizuara",
+    "status": "Regjistruar",
+    "companyUrl": "https://arbk.rks-gov.net/page.aspx?id=1,38,230144",
+    "category": "4920 - Transporti hekurudhor i mallrave"
+  },
+  {
+    "no": "4",
+    "name": "Tishan Logistics L.L.C.",
+    "tradeName": "Tishan Logistics",
+    "businessNo": "811564550",
+    "municipality": "Prishtinë",
+    "businessType": "Shoqëri me përgjegjësi të kufizuara",
+    "status": "Regjistruar",
+    "companyUrl": "https://arbk.rks-gov.net/page.aspx?id=1,38,216251",
+    "category": "4920 - Transporti hekurudhor i mallrave"
+  },
+  {
+    "no": "5",
+    "name": "ORBIT INTERNATIONAL FORWARDERS L.L.C.",
+    "tradeName": "///",
+    "businessNo": "811366378",
+    "municipality": "Fushë Kosovë",
+    "businessType": "Shoqëri me përgjegjësi të kufizuara",
+    "status": "Regjistruar",
+    "companyUrl": "https://arbk.rks-gov.net/page.aspx?id=1,38,201015",
+    "category": "4920 - Transporti hekurudhor i mallrave"
+  },
+  {
+    "no": "6",
+    "name": "Ioannis . Kosmatos B.I.",
+    "tradeName": "///",
+    "businessNo": "811270090",
+    "municipality": "Prishtinë",
+    "businessType": "Biznes individual",
+    "status": "Pasiv",
+    "companyUrl": "https://arbk.rks-gov.net/page.aspx?id=1,38,140086",
+    "category": "4920 - Transporti hekurudhor i mallrave"
+  },
+  {
+    "no": "7",
+    "name": "LOKO TRANS S.R.O. DEGA KOSOVË Dega në Kosovë",
+    "tradeName": "///",
+    "businessNo": "810860321",
+    "municipality": "Prishtinë",
+    "businessType": "Dega e Shoqërisë së Huaj",
+    "status": "Pasiv",
+    "companyUrl": "https://arbk.rks-gov.net/page.aspx?id=1,38,122377",
+    "category": "4920 - Transporti hekurudhor i mallrave"
+  },
+  {
+    "no": "8",
+    "name": "EURO CARGO SH.P.K.",
+    "tradeName": "///",
+    "businessNo": "810842775",
+    "municipality": "Prishtinë",
+    "businessType": "Shoqëri me përgjegjësi të kufizuara",
+    "status": "Pasiv",
+    "companyUrl": "https://arbk.rks-gov.net/page.aspx?id=1,38,120557",
+    "category": "4920 - Transporti hekurudhor i mallrave"
+  },
+  {
+    "no": "9",
+    "name": "SWISS TRANSPORT SH.P.K.",
+    "tradeName": "///",
+    "businessNo": "810020016",
+    "municipality": "Lipjan",
+    "businessType": "Shoqëri me përgjegjësi të kufizuara",
+    "status": "Pasiv",
+    "companyUrl": "https://arbk.rks-gov.net/page.aspx?id=1,38,102532",
+    "category": "4920 - Transporti hekurudhor i mallrave"
+  }
+]

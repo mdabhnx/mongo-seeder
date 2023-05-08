@@ -1,0 +1,35 @@
+[
+  {
+    "no": "1",
+    "name": "ITKOS SH.P.K.",
+    "tradeName": "///",
+    "businessNo": "70625148",
+    "municipality": "Prishtinë",
+    "businessType": "Shoqëri me përgjegjësi të kufizuara",
+    "status": "Shuar",
+    "companyUrl": "https://arbk.rks-gov.net/page.aspx?id=1,38,116074",
+    "category": "2814 - Prodhimi i rubinetave dhe valvulave"
+  },
+  {
+    "no": "2",
+    "name": "Art Trade B.I.",
+    "tradeName": "N.T.P. \" art trade \"",
+    "businessNo": "70452332",
+    "municipality": "Gjilan",
+    "businessType": "Biznes individual",
+    "status": "Shuar",
+    "companyUrl": "https://arbk.rks-gov.net/page.aspx?id=1,38,15964",
+    "category": "2814 - Prodhimi i rubinetave dhe valvulave"
+  },
+  {
+    "no": "3",
+    "name": "Art Trade GROUP SH.P.K.",
+    "tradeName": "///",
+    "businessNo": "810198342",
+    "municipality": "Gjilan",
+    "businessType": "Shoqëri me përgjegjësi të kufizuara",
+    "status": "Regjistruar",
+    "companyUrl": "https://arbk.rks-gov.net/page.aspx?id=1,38,217",
+    "category": "2814 - Prodhimi i rubinetave dhe valvulave"
+  }
+]

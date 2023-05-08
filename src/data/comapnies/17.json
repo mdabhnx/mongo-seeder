@@ -1,0 +1,35 @@
+[
+  {
+    "no": "1",
+    "name": "TERRAPHARM L.L.C.",
+    "tradeName": "///",
+    "businessNo": "811388603",
+    "municipality": "Fushë Kosovë",
+    "businessType": "Shoqëri me përgjegjësi të kufizuara",
+    "status": "Regjistruar",
+    "companyUrl": "https://arbk.rks-gov.net/page.aspx?id=1,38,202992",
+    "category": "0126 - Kultivimi i frutave vajore"
+  },
+  {
+    "no": "2",
+    "name": "Urim Sadikaj B.I.",
+    "tradeName": "///",
+    "businessNo": "811012179",
+    "municipality": "Prizren",
+    "businessType": "Biznes individual",
+    "status": "Regjistruar",
+    "companyUrl": "https://arbk.rks-gov.net/page.aspx?id=1,38,149250",
+    "category": "0126 - Kultivimi i frutave vajore"
+  },
+  {
+    "no": "3",
+    "name": "Ardrit Berisha B.I.",
+    "tradeName": "///",
+    "businessNo": "810149642",
+    "municipality": "Prishtinë",
+    "businessType": "Biznes individual",
+    "status": "Pasiv",
+    "companyUrl": "https://arbk.rks-gov.net/page.aspx?id=1,38,141141",
+    "category": "0126 - Kultivimi i frutave vajore"
+  }
+]

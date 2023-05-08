@@ -1,0 +1,112 @@
+[
+  {
+    "no": "1",
+    "name": "Leon Haxhija B.I.",
+    "tradeName": "///",
+    "businessNo": "812007947",
+    "municipality": "Viti",
+    "businessType": "Biznes individual",
+    "status": "Regjistruar",
+    "companyUrl": "https://arbk.rks-gov.net/page.aspx?id=1,38,243219",
+    "category": "0123 - Kultivimi i agrumeve"
+  },
+  {
+    "no": "2",
+    "name": "Gazmend Hasaj B.I.",
+    "tradeName": "///",
+    "businessNo": "810007535",
+    "municipality": "Kaçanik",
+    "businessType": "Biznes individual",
+    "status": "Pasiv",
+    "companyUrl": "https://arbk.rks-gov.net/page.aspx?id=1,38,187173",
+    "category": "0123 - Kultivimi i agrumeve"
+  },
+  {
+    "no": "3",
+    "name": "FRUTI KOS SH.P.K.",
+    "tradeName": "///",
+    "businessNo": "811233717",
+    "municipality": "Kaçanik",
+    "businessType": "Shoqëri me përgjegjësi të kufizuara",
+    "status": "Pasiv",
+    "companyUrl": "https://arbk.rks-gov.net/page.aspx?id=1,38,185866",
+    "category": "0123 - Kultivimi i agrumeve"
+  },
+  {
+    "no": "4",
+    "name": "Florent A. Shala B.I.",
+    "tradeName": "///",
+    "businessNo": "810063123",
+    "municipality": "Gjilan",
+    "businessType": "Biznes individual",
+    "status": "Pasiv",
+    "companyUrl": "https://arbk.rks-gov.net/page.aspx?id=1,38,183337",
+    "category": "0123 - Kultivimi i agrumeve"
+  },
+  {
+    "no": "5",
+    "name": "Avni Xh. Shala B.I.",
+    "tradeName": "///",
+    "businessNo": "811157727",
+    "municipality": "Malishevë",
+    "businessType": "Biznes individual",
+    "status": "Pasiv",
+    "companyUrl": "https://arbk.rks-gov.net/page.aspx?id=1,38,173773",
+    "category": "0123 - Kultivimi i agrumeve"
+  },
+  {
+    "no": "6",
+    "name": "Rexhep O. Berisha B.I.",
+    "tradeName": "N.SH. \" AGRO BALLKANI \"",
+    "businessNo": "811521716",
+    "municipality": "Prishtinë",
+    "businessType": "Biznes individual",
+    "status": "Pasiv",
+    "companyUrl": "https://arbk.rks-gov.net/page.aspx?id=1,38,137836",
+    "category": "0123 - Kultivimi i agrumeve"
+  },
+  {
+    "no": "7",
+    "name": "Terra Organica SH.P.K.",
+    "tradeName": "///",
+    "businessNo": "810841826",
+    "municipality": "Prishtinë",
+    "businessType": "Shoqëri me përgjegjësi të kufizuara",
+    "status": "Pasiv",
+    "companyUrl": "https://arbk.rks-gov.net/page.aspx?id=1,38,120456",
+    "category": "0123 - Kultivimi i agrumeve"
+  },
+  {
+    "no": "8",
+    "name": "P.P.P.  SUNCE B.I.",
+    "tradeName": "P.P.P. \" SUNCE \"",
+    "businessNo": "71172880",
+    "municipality": "Kamenicë",
+    "businessType": "Biznes individual",
+    "status": "Shuar",
+    "companyUrl": "https://arbk.rks-gov.net/page.aspx?id=1,38,26438",
+    "category": "0123 - Kultivimi i agrumeve"
+  },
+  {
+    "no": "9",
+    "name": "P.P.P.  STEFAN B.I.",
+    "tradeName": "P.P.P. \" STEFAN \"",
+    "businessNo": "71173089",
+    "municipality": "Kamenicë",
+    "businessType": "Biznes individual",
+    "status": "Shuar",
+    "companyUrl": "https://arbk.rks-gov.net/page.aspx?id=1,38,26437",
+    "category": "0123 - Kultivimi i agrumeve"
+  },
+  {
+    "no": "10",
+    "name": "STEFAN D.O.O.",
+    "tradeName": "///",
+    "businessNo": "71173925",
+    "municipality": "Kamenicë",
+    "businessType": "Shoqëri me përgjegjësi të kufizuara",
+    "status": "Shuar",
+    "companyUrl": "https://arbk.rks-gov.net/page.aspx?id=1,38,25483",
+    "category": "0123 - Kultivimi i agrumeve"
+  }
+]

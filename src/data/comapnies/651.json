@@ -1,0 +1,35 @@
+[
+  {
+    "no": "1",
+    "name": "Enver Gallapeni B.I.",
+    "tradeName": "N.P.SH. '' Moto Brutal ''",
+    "businessNo": "811041318",
+    "municipality": "Suharekë",
+    "businessType": "Biznes individual",
+    "status": "Regjistruar",
+    "companyUrl": "https://arbk.rks-gov.net/page.aspx?id=1,38,154864",
+    "category": "3091 - Prodhimi i motoçikletave"
+  },
+  {
+    "no": "2",
+    "name": "P.P.  Amerikan B.I.",
+    "tradeName": "P.P. \" Amerikan \"",
+    "businessNo": "811754185",
+    "municipality": "Prishtinë",
+    "businessType": "Biznes individual",
+    "status": "Pasiv",
+    "companyUrl": "https://arbk.rks-gov.net/page.aspx?id=1,38,66418",
+    "category": "3091 - Prodhimi i motoçikletave"
+  },
+  {
+    "no": "3",
+    "name": "Ramiz Bezera B.I.",
+    "tradeName": "D.P.T. \" Dax Motors \"",
+    "businessNo": "810419334",
+    "municipality": "Pejë",
+    "businessType": "Biznes individual",
+    "status": "Pasiv",
+    "companyUrl": "https://arbk.rks-gov.net/page.aspx?id=1,38,44264",
+    "category": "3091 - Prodhimi i motoçikletave"
+  }
+]
